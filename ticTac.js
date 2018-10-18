@@ -65,12 +65,9 @@ $(document).ready(function() {
             setTimeout(function() {
               swal(" Good job!!! ", res + "  You Won!", "success");
               if (res === "O") {
-                console.log("OOOOO");
                 countO++;
-
                 counterO.text(countO);
               } else {
-                console.log("XXXXX");
                 countX++;
                 counterX.text(countX);
               }
