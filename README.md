@@ -10,11 +10,17 @@
 
 #### squares.
 
-#### The first player get 3 marks in a row (up, down, across, or #### diagonally) is the winner.
+#### The first player get 3 marks in a row (up, down, across, or
 
-#### When all 9 squares are full, the game is over. If no player #### has 3 marks in a row, the game ends in a tie.
+#### diagonally) is the winner.
 
-## GitHub-Link
+#### When all 9 squares are full, the game is over. If no player
+
+#### has 3 marks in a row, the game ends in a tie.
+
+# Demo
+
+## to play the game in github page.
 
 - https://triple0m.github.io/wdi-project1/ticTac.html
 
@@ -27,12 +33,19 @@
 
 ##GitHub-Page:
 
-- https://github.com/triple0m
+- my github page:
 
-## Unsolved Problem:
-
-#### 1 player vs pc randomly playing.
+* https://github.com/triple0m
 
 ## What Is Next:
 
-### more better smart games.
+- more better smart games.
+
+#Credits
+
+- Jack
+- Moath
+- Trever
+- Jafar
+- Ali
+- Sami
