@@ -27,7 +27,7 @@
 
 - more better smart games.
 
-#Credits
+# Credits
 
 - Jack
 - Moath
