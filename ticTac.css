@@ -105,3 +105,20 @@ p {
   border-radius: 100%;
   display: inline-block;
 }
+
+.onePlayer {
+  top: 697px;
+  position: absolute;
+  width: 132px;
+  left: 1082px;
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+
+  color: ghostwhite;
+  height: 130px;
+  background-color: rgb(43, 32, 46);
+
+  border: 20px 20px solid rgb(255, 250, 250);
+  border-radius: 100%;
+  display: inline-block;
+}
